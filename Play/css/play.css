@@ -1,0 +1,287 @@
+img {
+	display: block;
+	
+}
+.header-top,.header .box{
+	width:1203px;
+	margin:0 auto;
+	
+}
+.header-top{
+	padding-top:9px;
+	position:relative;
+}
+.header-top p{
+	font-size:12px;
+	color:#967a56;
+	height:12px;
+	line-height:12px;
+}
+.header-top a{
+	display: block;
+	position:absolute;
+	top:12px;
+}
+.header>.box{
+	height:79px;
+	position:relative;
+}
+.header .box h1{
+	position:absolute;
+	left:14px;
+	top:20px;
+	width:101px;
+}
+.header .box .menu li{
+	float:left;
+	width:134px;
+	margin-right:17px;
+	height:79px;
+}
+.header .box .menu li>a{
+	display: block;
+	font-size:16px;
+	color:#000000;
+	height:28px;
+	padding-top:24px;
+	padding-bottom:27px;
+	text-align:center;
+}
+.header .box  li>a:hover{
+	background:#401a00;
+	color:#ffffef;
+}
+.header .box  li p{
+	display: none;
+}
+.header>.box li:hover p{
+		display: block;
+}
+.header>.box li a span{
+	display: block;
+	font-size:10px;
+	color:#d5cbc9;
+	text-align:center;
+}
+.header>.box li p a{
+	display: block;
+	height:47px;
+	line-height:47px;
+	color:#fff;
+	font-size:14px;
+	background:rgba(0,0,0,.3);
+	width:180px;
+	text-indent:30px;
+	border-bottom:1px solid #ffe;
+}
+.header>.box li p a:hover{
+	background:#0e4752;
+	border:0;
+	height:48px;
+	line-height:48px;
+}
+.header>.box .menu li.on {
+    background:#401a00;
+	color:#ffffef;
+}
+.header>.box .menu li.on a {
+	color:#ffffef;
+}
+
+.max_width {
+	width: 100%;
+	background: #07515a;
+}
+
+.nav {
+	width: 950px;
+	margin: 0 auto;
+}
+
+.nav ul li {
+	width: 237px;
+	float: left;
+	text-align: center;
+	padding: 10px 0;
+}
+
+.nav ul li a {
+	display:block;
+	text-decoration:none;
+	height: 41px;
+	line-height: 22px;
+	text-align: center;
+	font-size: 16px;
+	color: #f2fefc;
+	font-family: "MicrosoftYaHei"
+}
+.nav ul li:hover {
+	background: #0a353c;
+}
+.nav ul li a p {
+	line-height: 19px;
+	height: 19px;
+	font-size: 11px;
+	color: #00adbe;
+	font-family: "MicrosoftYaHei"
+}
+body>p {
+	width: 173px;
+	margin: 0 auto;
+	padding-left: 777px;
+	height: 56px;
+	line-height: 56px;
+}
+body>p a {
+	display: inline-block;
+	text-decoration: none;
+	font-size: 11px;
+	color: #a8a39d;
+	font-family: "MicrosoftYaHei"
+}
+body>p a:hover{
+	text-decoration:underline;
+}
+body>p span {
+	color: #adaaa5;
+}
+.main{
+	width:950px;
+	margin: 0 auto;
+}
+.main ul li{
+	width: 300px;
+	height: 524px;
+	border: 1px solid #bda592;
+	margin:0 15px 10px 0;
+	position:relative;
+	float: left;
+	overflow: hidden;
+}
+.main ul li>a img{
+	transition: .6;
+}
+.main ul li:hover>a img{
+	transform: scale(1.2,1.2);
+}
+.main li a img{
+	width: 300px;
+	height: 330px;
+}
+.main div{
+	padding-left:25px;
+}
+.main li h3{
+	height:32px;
+	line-height: 32px;
+	margin-bottom:13px;
+	font-size: 15px;
+	color: #3a575d;
+	font-family: "MicrosoftYaHei"
+}
+.main li span{
+	line-height:20px;
+	font-size: 11px;
+	color: #413c38;
+	font-family: "MicrosoftYaHei"
+}
+.main li div a{
+	display:block;
+	text-decoration:none;
+	width:124px;
+	height:33px;
+	line-height:33px;
+	text-align:center;
+	font-size:16px;
+	color:#f2ffff;
+	background:#0d6c8c;
+	position:absolute;
+	top:468px;
+	left:132px;
+}
+.main p{
+	display:block;
+	height:122px;
+	line-height:122px;
+	text-align:center;
+	font-size:11px;
+	color:#333333;
+}
+.main p span{
+	color:#fd0049;
+}
+.main p a{
+	text-decoration:none;
+	width:30px;
+	height:17px;
+	border:1px solid #aaaaaa;
+}
+.footer-top,.footer-bot{
+	width:952px;
+	margin:0 auto;
+}
+.footer-top{
+	background:url(../images/image_16.jpg) no-repeat left 25px,
+				url(../images/image_23.jpg) no-repeat 416px 139px;
+	padding-bottom:16px;
+}
+.footer-top .content img{
+	display: block;
+	width:130px;
+	height:133px;
+}
+.left,.aa{
+	float:left;
+	margin-top:26px;
+}
+#list li{
+	font-size:12px;
+	color:#967a3b;
+	float:left;
+	margin-bottom:14px;
+	margin-right:8px;
+	height:12px;
+	line-height:12px;
+	cursor:pointer;
+}
+#list .active{
+	color:#f48d09;
+}
+.normal{
+	color:#967a3b;
+}
+.content{
+	width:130px;
+	height:133px;
+	overflow:hidden;
+}
+.aa span{
+	display: inline-block;
+	width:35px;
+	text-align:center;
+	font-size:12px;
+	color:#366084;
+}
+.aa a{
+	color:#87431c;
+	font-size:11px;
+	height:11px;
+	line-height:11px;
+}
+.aa a:hover{
+	color:#f48d09;
+}
+.footer-bot p{
+	font-size:12px;
+	color:#585858;
+	height:47px;
+	line-height:47px;
+}
+.footer-bot{position:relative;}
+.footer-bot img{
+	position:absolute;
+	right:79px;
+	top:0;
+	height:47px;
+	width:34px;
+}

@@ -1,0 +1,131 @@
+.menu_sub {
+	height: 61px;
+	width: 87%;
+	background: #024049;
+	padding-left: 13%;
+}
+
+.menu_sub li {
+	width: 190px;
+	height: 51px;
+	line-height: 51px;
+	text-align: center;
+	padding-top: 10px;
+	float: left;
+}
+
+.menu_sub li a {
+	display: block;
+	height: 22px;
+	line-height: 22px;
+	text-align: center;
+	font-size: 16px;
+	color: #ffffff;
+}
+
+.menu_sub li a span {
+	display: block;
+	height: 19px;
+	line-height: 19px;
+	text-align: center;
+	font-size: 13px;
+	color: #0396ba;
+}
+
+.bread {
+	width: 101px;
+	margin: 0 auto;
+	padding-left: 849px;
+}
+.bread a {
+	height: 57px;
+	line-height:57px;
+	font-size:11px;
+	color: #a1a1a1;
+}
+.bread a:hover {
+	text-decoration: underline;
+}
+.boxx{
+	width: 868px;
+	margin: 0 auto;
+	padding: 35px 62px 55px 20px;
+	border: 1px solid #bda592;
+}
+.boxx ul li{
+	margin-bottom: 50px;
+	
+}
+.boxx ul li img{
+	display: inline-block;
+	width: 350px;
+	height: 220px;
+	margin-right: 45px;
+}
+.boxx ul li div{
+	float: right;
+	width: 468px;
+}
+.boxx ul li div h4{
+	display: block;
+	height: 33px;
+	line-height: 33px;
+	font-size:15px;
+	color: #057489;
+	margin-bottom: 10px;
+}
+.boxx ul li div p{
+	height: 120px;
+	line-height: 20px;
+	font-size: 11px;
+}
+.boxx ul li div a{
+	display: block;
+	width: 124px;
+	height: 33px;
+	line-height: 33px;
+	text-align: center;
+	font-size: 15px;
+	color: #fff;
+	margin: 12px 42px 12px 302px;
+	background: #027588;
+}
+.pages{
+	width: 299px;
+	height: 22px;
+	margin: 30px auto 52px auto;
+}
+.pages p{
+	font-size: 12px;
+}
+.pages p:first-child{
+	width: 235px;
+	height: 22px;
+	float: left;
+}
+.pages p span{
+	display:inline-block;
+	float: left;
+	color: #333333;
+}
+.pages p a{
+	display: inline-block;
+	float: left;
+	color: #333333;
+}
+.pages p a:hover{
+	color: #ffffff;
+	text-decoration: underline;
+}
+.pages .dingwei{
+	float: left;
+}
+.pages p label{
+	float: left;
+	color: #333333;
+} 
+.pages p select{
+	display: block;
+	float: left;
+	color: #333333;
+}

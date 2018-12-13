@@ -1,0 +1,29 @@
+.max_width {
+	width: 100%;
+	background: #07515a;
+}
+.nav {
+	width: 950px;
+	margin: 0 auto;
+}
+
+.nav ul li {
+	width: 237px;
+	float: left;
+	text-align: center;
+	padding: 10px 0;
+}
+
+.nav ul li a {
+	display:block;
+	text-decoration:none;
+	height: 41px;
+	line-height: 22px;
+	text-align: center;
+	font-size: 16px;
+	color: #f2fefc;
+	font-family: "MicrosoftYaHei"
+}
+.nav ul li:hover {
+	background: #0a353c;
+}

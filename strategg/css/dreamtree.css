@@ -1,0 +1,10 @@
+.main{width: 950px; margin: 0 auto; position: relative; margin-bottom: 50px;}
+.main .head{height:999px; margin-bottom:20px;}
+.main ul li,.now{width:220px; height:280px; margin: 8px 0 0 29px;   float: left; padding: 29px;background:#ffffff; box-shadow: rgb(144,144,144) 2px 2px 10px;}
+.main ul li a:first-of-type{display: block; text-align: center; color: #287037;}
+.main ul li a:first-of-type:hover{text-decoration: underline;}
+.main ul li a img{width: 135px; height: 168px;margin: 5px 0 10px 40px;}
+.main ul li p,.now p{text-align: center;}
+.main .now a:first-of-type{display: block; text-align: center; color: #287037;}
+.main .now a:first-of-type:hover{text-decoration: underline;}
+.main .now a img{width: 135px; height: 168px;margin: 5px 0 10px 40px;}

@@ -1,0 +1,27 @@
+.main1{width:950px;margin:0 auto;}
+.main1 h3{
+	font-size:23px;
+	height:29px;
+	line-height:29px;
+	color:#0e4752;
+	text-indent:364px;
+	margin-bottom:31px;
+}
+.main1 h4{
+	font-size:15px;
+	height:48px;
+	line-height:48px;
+	color:#454545;
+	text-indent:24px;
+}
+.main1 p{
+	line-height:18px;
+	color:#454545;
+	font-size:15px;
+	text-indent:32px;
+	margin-bottom:15px;
+}
+.main1 img{
+	width:950px;
+	margin-bottom:15px;
+}

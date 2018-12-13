@@ -1,0 +1,74 @@
+.img {
+	width: 100%;
+	height: 468px;
+}
+.img img {
+	width: 100%;
+	height: 468px;
+}
+.menu_sub {
+	width: 88%;
+	height: 61px;
+	background: url(../images/bg1.jpg) repeat-x;
+	padding-left: 12%;
+}
+.menu_sub li {
+	width: 317px;
+	float: left;
+}
+.menu_sub li a {
+	display: block;
+	color: #fff;
+}
+.menu_sub li a span {
+	display: block;
+	text-align: center;
+}
+.menu_sub li a span:first-child {
+	height: 32px;
+	line-height: 32px;
+	padding-top: 3px;
+	font-size: 17px;
+}
+.menu_sub li a span:nth-of-type(2) {
+	font-size: 11px;
+	color: #00adbe;
+	height: 9px;
+	line-height: 9px;
+	padding-bottom: 17px;
+}
+.menu_sub li:hover {
+	background: url(../images/bj2.jpg) repeat-x;
+}
+.menu_sub .moren {
+	background: url(../images/bj2.jpg) repeat-x;
+}
+.nav2{
+	width: 950px;
+	margin: 0 auto;
+	text-align: right;
+}
+.nav2 li{
+	height: 56px;
+	line-height: 56px;
+	font-size: 12px;
+	color: #a1a1a1;
+}
+.nav2 li a{
+	color: #a1a1a1;
+}
+.nav2 li a:hover{
+	text-decoration: underline;
+}
+.box{
+	width: 950px;
+	margin: 0 auto;
+}
+h2{
+	height:35px ;
+	line-height: 35px;
+	font-size: 25px;
+	color: #0e4752;
+	text-align: center;
+	margin-bottom: 13px;
+}

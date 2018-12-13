@@ -1,0 +1,41 @@
+.main{
+	width:950px;
+	margin:0 auto;
+	margin-bottom:50px;
+}
+.bread{
+	width:950px;
+	margin-top:8px;
+	height:39px;
+}
+.bread ul{
+	float:right;
+}
+.bread li{
+	float:left;
+	line-height:39px;
+}
+.bread li a{
+	font-size:11px;
+	color:#a1a1a1;
+}
+.bread li a:hover{
+	text-decoration: underline;
+}
+h3{
+	padding-left:425px;
+	font-size:22px;
+	line-height:51px;
+	margin-bottom:19px;
+}
+.main img{
+	display:block;
+	margin:0 auto;
+}
+p{
+	font-size:13px;
+	line-height:20px;
+	margin-bottom:15px;
+	text-indent:25px;
+	color:#006261;
+}

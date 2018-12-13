@@ -1,0 +1,19 @@
+*{margin:0;padding:0;}
+.clearfix:after{display: block;height:0;content: '.';clear:both;visibility: hidden;}
+ul,li,ol,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,form,label,section,input{display: block;}
+ul{list-style:none;}
+a{text-decoration:none;font-family: "MicrosoftYaHei"}
+body{background: #f7f2ec;}
+img{border:0;}
+.fixed{
+	width: 73px;
+	
+	position: fixed;
+	left: 0;
+	bottom: 20px;
+}
+.fixed img{
+	display: block;
+	width: 73px;
+	height: 73px;
+}

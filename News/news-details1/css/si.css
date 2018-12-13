@@ -1,0 +1,24 @@
+.boxx .one span{
+	display: block;
+	height: 24px;
+	line-height: 24px;
+	text-align:center;
+	font-size: 18px;
+}
+.boxx p img{
+	display: block;
+	margin: 0 auto;
+}
+.boxx hr{
+	height: 22px;
+	border: 0;
+	border-top: 1px solid  coral;
+	
+	margin: 0 auto;
+	margin-bottom: 40px;
+}
+.boxx span{
+	display: block;
+	text-align: center;
+	font-size: 15px;
+}

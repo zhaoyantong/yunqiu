@@ -1,0 +1,37 @@
+.main{
+	width:950px;
+	margin:0 auto;
+	margin-bottom:50px;
+}
+.bread{
+	width:950px;
+	margin-top:8px;
+	height:39px;
+}
+.bread ul{
+	float:right;
+}
+.bread li{
+	float:left;
+	line-height:39px;
+}
+.bread li a{
+	font-size:11px;
+	color:#a1a1a1;
+}
+h3{
+	padding-left:425px;
+	font-size:22px;
+	line-height:51px;
+	margin-bottom:19px;
+}
+p{
+	font-size:14px;
+	line-height:28px;
+	margin-bottom:15px;
+	text-indent:30px;
+}
+.main img{
+	display:block;
+	margin-bottom:15px;
+}

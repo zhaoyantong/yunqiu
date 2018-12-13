@@ -1,0 +1,6 @@
+.main{width: 950px; margin: 0 auto; margin-bottom: 50px;}
+.main h2{text-align: center; color: #0e4752; font-size:24px; line-height: 38px;}
+.main img{width: 640px; height: 690px; margin-left:140px;}
+.main p{margin-bottom: 20px; line-height: 22px; font-size: 14px; margin: 15px 0; text-align: center;}
+.main p a{color: red;}
+.main span{font-weight:bold;}

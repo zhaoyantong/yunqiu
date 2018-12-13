@@ -1,0 +1,9 @@
+.boxx p{
+	width: 950px;
+	margin: 0 auto 10px auto;
+	font-size: 15px;
+}
+.boxx img{
+	display: block;
+	margin: 0 auto 10px auto;
+}

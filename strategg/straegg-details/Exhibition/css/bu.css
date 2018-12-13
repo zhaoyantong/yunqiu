@@ -1,0 +1,5 @@
+.main{width: 950px; margin: 0 auto; margin-bottom: 50px;}
+.main h2{text-align: center; color: #0e4752; font-weight: bold;}
+.main p img{display: block; width: 821px; height: 583px;margin-left:64px;}
+.main p:first-of-type{text-align: center; font-size: 15px; line-height: 20px;}
+.main p{margin: 10px 0 5px 0;}

@@ -1,0 +1,17 @@
+.main{width: 950px; margin: 0 auto; margin-bottom: 50px;}
+.main .photos{height: 630px; 
+				position: relative; overflow: hidden;}
+.main .photos img{width:950px; height: 630px; }
+.main .photos p{font-size:32px; text-align: center; color:yellow;  transition: .5s; display:block; width:950px;  line-height: 130px; background: rgba(255,0,0,.5);}
+.main .photos p:first-of-type{position: absolute;
+				left:-950px;
+				top:0px;}
+.main .photos p:last-of-type{position: absolute;
+				left:0px;
+				bottom:-260px;}
+/*.main .photos p:last-of-type{position: absolute;
+				left:0px;
+				top:630px;}
+				*/
+.photos:hover p:first-of-type{transform: translate(950px,0);}
+.photos:hover p:last-of-type{transform: translate(0,-260px);}

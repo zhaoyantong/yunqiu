@@ -1,0 +1,6 @@
+.main{width: 950px; margin: 0 auto; margin-bottom: 50px;}
+.main h2,p{text-align: center; margin-bottom: 10px;}
+.main h2{margin-bottom: 30px; color: #0e4752;}
+.main p{font-size:15px; line-height: 21px;}
+.main p span{color: red; font-weight: bold;}
+

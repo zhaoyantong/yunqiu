@@ -1,0 +1,19 @@
+
+
+/*跳转*/
+.search{width: 950px; margin: 0 auto; height: 40px; line-height: 40px; margin-bottom: 50px;}
+.search p{margin-left:330px; font-size:12px;}
+
+.search p a{color: #333333;}
+.search p a:hover{color:#A1A1A1; text-decoration: underline;}
+
+
+/*main*/
+.main{width: 950px; margin:0 auto;  padding: 15px 0;  border: 1px solid #0A353C;}
+.main ul li{width:900px;  padding:8px 24px; position: relative; margin-bottom:40px;}
+.main ul li .img{width: 350px; float: left;}
+.main ul li .text{width:455px; float: right; margin-right: 50px;}
+.main ul li .text h2{font-size: 16px; color: #057489; margin-bottom: 5px;  line-height: 32px;}
+.main ul li .text p{font-size: 12px; line-height: 24px;}
+.main ul li a{position: absolute; right:88px; bottom:10px ;}
+.main ul li .img img{width: 350px; height: 220px;}

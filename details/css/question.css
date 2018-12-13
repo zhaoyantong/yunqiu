@@ -1,0 +1,159 @@
+.header-top,.header .box{
+	width:1203px;
+	margin:0 auto;
+}
+.header-top{
+	padding-top:9px;
+	position:relative;
+}
+.header-top p{
+	font-size:12px;
+	color:#967a56;
+	height:12px;
+	line-height:12px;
+}
+.header-top a{
+	display: block;
+	position:absolute;
+	top:12px;
+}
+.header>.box{
+	height:79px;
+	position:relative;
+}
+.header>.box h1{
+	position:absolute;
+	left:14px;
+	top:20px;
+	width:101px;
+}
+.header>.box .menu li{
+	float:left;
+	width:134px;
+	margin-right:17px;
+	height:79px;
+}
+.header>.box .menu li>a{
+	display: block;
+	font-size:16px;
+	color:#000000;
+	height:28px;
+	padding-top:24px;
+	padding-bottom:27px;
+	text-align:center;
+}
+.header>.box  li>a:hover{
+	background:#401a00;
+	color:#ffffef;
+}
+.header>.box  li p{
+	display: none;
+}
+.header>.box li:hover p{
+		display: block;
+}
+.header>.box li a span{
+	display: block;
+	font-size:10px;
+	color:#d5cbc9;
+	text-align:center;
+}
+.header>.box li p a{
+	display: block;
+	height:47px;
+	line-height:47px;
+	color:#fff;
+	font-size:14px;
+	background:rgba(0,0,0,.3);
+	width:164px;
+	text-indent:30px;
+	border-bottom:1px solid #ffe;
+}
+.header>.box li p a:hover{
+	background:#0e4752;
+	border:0;
+	height:48px;
+	line-height:48px;
+}
+.header>.box .menu li.on {
+    background:#401a00;
+	color:#ffffef;
+}
+.header>.box .menu li.on a {
+	color:#ffffef;
+}
+.picture{
+	width:100%;
+	height:468px;
+	overflow:hidden;
+}
+.picture img{
+	width:100%;
+}
+.meau_sub{
+	width:100%;
+	height:61px;
+	background:#09515c;
+}
+.sub{
+	width:100%;
+}
+.sub p{
+	width:952px;
+	height:55px;
+	margin:0 auto;
+	text-align:right;
+}
+.sub p a{
+	font-size:12px;
+	color:#a1a1a1;
+}
+.sub p a:hover{
+	text-decoration:underline;
+	
+}
+.main{
+	width:952px;
+	padding-top:10px;
+	margin:0 auto;
+	margin-bottom:43px;
+}
+.main h3{
+	font-size:17px;
+	color: #454545;
+	height:34px;
+	line-height:34px;
+	text-align:center;
+}
+.main h4,p{
+	height:35px;
+	line-height:35px;
+	color:#454545;
+	font-size:13px;
+	font-weight:normal;
+}
+.main p{
+	font-size:12px;
+}
+
+
+
+.main-1{
+	width:952px;
+	margin:0 auto;
+	padding-top:3px;
+	margin-bottom:51px;
+}
+.main-1 h3{
+	font-size:17px;
+	height:47px;
+	line-height:47px;
+	color:#454545;
+	text-align:center;
+}
+.main-1 p{
+	line-height:20px;
+	margin-bottom:15px;
+	font-size:12px;
+	color:#454545;
+}

@@ -1,0 +1,147 @@
+.header-top,.header-bot{
+	width:1203px;
+	margin:0 auto;
+	
+}
+.header-top{
+	padding-top:9px;
+	position:relative;
+}
+.header-top p{
+	font-size:12px;
+	color:#967a56;
+	height:12px;
+	line-height:12px;
+}
+.header-top a{
+	display: block;
+	position:absolute;
+	top:12px;
+}
+.header-bot{
+	height:79px;
+	position:relative;
+}
+.header-bot h1{
+	position:absolute;
+	left:14px;
+	top:20px;
+	width:101px;
+}
+.header-bot li{
+	float:left;
+	width:134px;
+	margin-right:17px;
+	height:79px;
+}
+.header-bot li>a{
+	display: block;
+	font-size:16px;
+	color:#000000;
+	height:28px;
+	padding-top:24px;
+	padding-bottom:27px;
+	text-align:center;
+}
+.header-bot li>a:hover{
+	background:#401a00;
+	color:#ffffef;
+}
+.header-bot li p{
+	display: none;
+}
+.header-bot li:hover p{
+		display: block;
+}
+.header-bot li a span{
+	display: block;
+	font-size:10px;
+	color:#d5cbc9;
+	text-align:center;
+}
+.header-bot li p a{
+	display: block;
+	height:47px;
+	line-height:47px;
+	color:#fff;
+	font-size:14px;
+	background:rgba(0,0,0,.3);
+	width:180px;
+	text-indent:30px;
+	border-bottom:1px solid #ffe;
+}
+.header-bot li p a:hover{
+	background:#0e4752;
+	border:0;
+	height:48px;
+	line-height:48px;
+}
+
+.footer-top,.footer-bot{
+	width:952px;
+	margin:0 auto;
+}
+.footer-top{
+	background:url(../images/image_16.jpg) no-repeat left 25px,
+				url(../images/image_23.jpg) no-repeat 416px 139px;
+	padding-bottom:16px;
+}
+.footer-top .content img{
+	display: block;
+	width:130px;
+	height:133px;
+}
+.left,.aa{
+	float:left;
+	margin-top:26px;
+}
+#list li{
+	font-size:12px;
+	color:#967a3b;
+	float:left;
+	margin-bottom:14px;
+	margin-right:8px;
+	height:12px;
+	line-height:12px;
+	cursor:pointer;
+}
+#list .active{
+	color:#f48d09;
+}
+.normal{
+	color:#967a3b;
+}
+.content{
+	width:130px;
+	height:133px;
+	overflow:hidden;
+}
+.aa span{
+	display: inline-block;
+	width:35px;
+	text-align:center;
+	font-size:12px;
+	color:#366084;
+}
+.aa a{
+	color:#87431c;
+	font-size:11px;
+	height:11px;
+	line-height:11px;
+}
+.aa a:hover{
+	color:#f48d09;
+}
+.footer-bot p{
+	font-size:12px;
+	color:#585858;
+	height:47px;
+	line-height:47px;
+}
+.footer-bot{position:relative;}
+.footer-bot img{
+	position:absolute;
+	right:79px;
+	top:0;
+	height:47px;
+}

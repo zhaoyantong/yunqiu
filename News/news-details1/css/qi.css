@@ -1,0 +1,29 @@
+.boxx p{
+	width: 950px;
+	margin: 0 auto 10px auto;
+	font-size: 15px;
+	color: rgb(136, 136, 136);
+}
+.boxx img{
+	display: block;
+	margin: 0 auto 10px auto;
+}
+.boxx h3{
+	height: 65px;
+	line-height: 65px;
+	font-size: 16px;
+	text-align: center;
+}
+.boxx span{
+	display: block;
+	width: 950px;
+	height: 35px;
+	line-height: 35px;
+	font-size: 15px;
+	margin: 0 auto;
+}
+.boxx .bottom p{
+	height: 22px;
+	line-height: 22px;
+	font-size: 11px;
+}

@@ -1,0 +1,60 @@
+.boxx p{
+	width: 950px;
+	margin: 0 auto 10px auto;
+	font-size: 15px;
+}
+.boxx img{
+	display: block;
+	margin: 0 auto 10px auto;
+}
+.boxx hr{
+	display: block;
+	width: 950px;
+	height: 5px;
+	border: 0;
+	margin: 0 auto;
+	margin-bottom: 5px;
+	background-color: rgb(159, 163, 174);
+}
+.boxx .one h3{
+	width: 950px;
+	height: 72px;
+	line-height: 72px;
+	font-size: 14px;
+	color: rgb(238, 28, 28);
+	margin: 0 auto;
+	margin-bottom: 19px;
+}
+.boxx .one h3 span{
+	display: inline-block;
+	
+	height: 72px;
+	line-height: 72px;
+	background-color: rgb(253, 190, 173);
+	color: #fff;
+	font-size: 24px;
+	width: 36px;
+	text-align: center;
+	border-radius: 0 36px 36px 0;
+}
+.boxx .one p{
+	font-size: 14px;
+	color: rgb(62, 62, 62);
+}
+.boxx .tow h4{
+	display: inline-block;
+	width: 60px;
+	height: 20px;
+	font-size: 14px;
+	background-color: rgb(246, 161, 144);
+	color: #fff;
+	padding: 4px 6px;
+	margin-right: 100px;
+}
+.boxx .tow p{
+	display: inline-block;
+	width: 271px;
+}
+.boxx .tow p span{
+	display: block;
+}

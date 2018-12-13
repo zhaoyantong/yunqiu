@@ -1,0 +1,3 @@
+.main{width: 950px; margin: 0 auto; margin-bottom: 50px;}
+.main p,h2{text-align: center;}
+.main p:first-of-type{margin:32px 0 16px 0;}

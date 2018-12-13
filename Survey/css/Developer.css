@@ -1,0 +1,180 @@
+
+.header-top,.header .box{
+	width:1203px;
+	margin:0 auto;
+	
+}
+.header-top{
+	padding-top:9px;
+	position:relative;
+}
+.header-top p{
+	font-size:12px;
+	color:#967a56;
+	height:12px;
+	line-height:12px;
+}
+.header-top a{
+	display: block;
+	position:absolute;
+	top:12px;
+}
+.header>.box{
+	height:79px;
+	position:relative;
+}
+.header>.box h1{
+	position:absolute;
+	left:14px;
+	top:20px;
+	width:101px;
+}
+.header>.box .menu li{
+	float:left;
+	width:134px;
+	margin-right:17px;
+	height:79px;
+}
+.header>.box .menu li>a{
+	display: block;
+	font-size:16px;
+	color:#000000;
+	height:28px;
+	padding-top:24px;
+	padding-bottom:27px;
+	text-align:center;
+}
+.header>.box  li>a:hover{
+	background:#401a00;
+	color:#ffffef;
+}
+.header>.box  li p{
+	display: none;
+}
+.header>.box li:hover p{
+		display: block;
+}
+.header>.box li a span{
+	display: block;
+	font-size:10px;
+	color:#d5cbc9;
+	text-align:center;
+}
+.header>.box li p a{
+	display: block;
+	height:47px;
+	line-height:47px;
+	color:#fff;
+	font-size:14px;
+	background:rgba(0,0,0,.3);
+	width:164px;
+	text-indent:30px;
+	border-bottom:1px solid #ffe;
+}
+.header>.box li p a:hover{
+	background:#0e4752;
+	border:0;
+	height:48px;
+	line-height:48px;
+}
+.header>.box .menu li.on {
+    background:#401a00;
+	color:#ffffef;
+}
+.header>.box .menu li.on a {
+	color:#ffffef;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*大图片*/
+.banner{
+	height:468px;
+}
+/*绿导航*/
+.menu_sub{
+	width:100%;
+	height:61px;
+	background:#08505a;
+}
+.menu_sub ul{
+	width:949px;
+	margin:0 auto;
+	text-align:center;
+}
+.menu_sub ul li{
+	float:left;
+}
+.menu_sub ul li a{
+	color:#ffffff;
+	font-size:15px.;
+	padding-bottom:11px;
+	padding-top:8px;
+	display:block;
+}
+.menu_sub ul li span{
+	font-size:9px;
+	color:#00adb1;
+	font-weight:bold;
+}
+.menu_sub ul li:hover{
+	background:#0a353d;
+}
+/* 
+ 	内容 -- 面包屑
+  	灰色鼠标滑动过后未设
+   
+*/
+.main{
+	width:937px;
+	margin:0 auto;
+}
+.main .bread{
+	width:937px;
+	height:57px;
+	line-height:57px;
+	margin-bottom:1px;
+}
+.main ul{
+	float:right;
+}
+.main .bread li{
+	float:left;
+}
+.main .bread li a{
+	font-size:11px;
+	color:#a1a1a1;
+}
+.main .bread li a:hover{
+	text-decoration:underline;
+}
+/*内容 -- 内容开始*/
+.main  h3{
+    padding-left:260px; 
+    
+	height:47px;
+	font-size:18px;
+	line-height:47px;
+}
+.main>img{
+	display:block;
+	padding-left:155px;
+}
+.main p{
+	text-indent:29px;
+	font-size:15px;
+	line-height:19px;
+	padding-top:27px;
+	padding-bottom:26px;
+}

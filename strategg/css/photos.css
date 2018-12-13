@@ -1,0 +1,11 @@
+.main{width: 950px; margin: 0 auto; margin-bottom: 50px;}
+.xing>img{margin-bottom: 40px;}
+.qing>img{margin:40px 0 30px 0;}
+.jing>img{margin: 40px 0 20px 0;}
+
+.main ul li{  margin-bottom:17px; width: 278px; margin-left: 8px; height: 333px; background:#eaeaea; margin-right:40px; float: left; box-shadow: rgb(144,144,144) 2px 2px 10px;}
+.main ul li a>img{width: 278px; height: 158px;}
+.main ul li p{height: 24px; line-height: 24px; font-size:14px; text-indent:10px;}
+.main ul li a:last-of-type{ display: block; font-size: 16px; color: #333; text-indent: 10px;}
+.main ul li a:hover{color:#FFFFFF; text-decoration: underline;}
+.main>p{width: 350px;  text-align: center; font-size: 15px; margin: 95px auto 20px auto;}
